@@ -1,4 +1,4 @@
-# Store Tasks (Android, Kotlin)
+# Store Tasks app (Android, Kotlin)
 
 Employee task execution app: log in, fetch tasks, capture Before/After photos,
 complete tasks offline, and sync automatically when the network returns.
